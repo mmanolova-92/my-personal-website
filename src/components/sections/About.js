@@ -7,6 +7,7 @@ class About extends Component {
   render() {
 
     return (
+      
       <Flexbox id="section_about" flexDirection="column">
         <Flexbox className="section_box" flexDirection="row">
           <Flexbox className="section_component" flexDirection="column">

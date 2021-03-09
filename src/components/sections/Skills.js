@@ -174,6 +174,7 @@ class Skills extends Component {
           </Flexbox>
         </Flexbox>
       </Flexbox>
+      
     )
   }
 }

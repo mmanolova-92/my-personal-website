@@ -10,8 +10,6 @@
   top: 50px;
   font-size: 2.5vw;
   background-color: 'rgba(0, 0, 0, 0.5)';
-  /*background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(241,239,242,1) 0%, rgba(234,219,245,1) 100%);*/
   overflow: hidden;
   background-attachment: fixed;
   background-size: 100% auto;
@@ -134,11 +132,6 @@
 .carousel.slide {
   margin: 0 !important;
 }
-
-/*.w-100 {
-  width: 22.5% !important;
-  height: 15% !important;
-}*/
 
 .carousel-control-next,
 .carousel-control-prev {

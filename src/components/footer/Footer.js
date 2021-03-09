@@ -13,6 +13,7 @@ class Footer extends Component {
           <p>2021 Manuela Manolova. All Rights Reserved. Privacy policy.</p>
         </div>
       </div>
+      
     )
   }
 }
